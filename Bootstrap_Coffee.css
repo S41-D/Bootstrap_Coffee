@@ -1,0 +1,11 @@
+body {
+
+}
+.jumbotron{
+  background-color: #E0E0E0;
+  padding: 40px;
+  margin-top: 30px;
+}
+.img-thumbnail {
+  margin: 16px;
+}
